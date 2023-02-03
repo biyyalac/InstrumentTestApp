@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo" />
+      <option name="name" value="injected_offline_gmaven_repo" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-C13" />
+      <option name="name" value="injected_offline_gmaven_repo-C13" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-C13/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_m2repository" />
+      <option name="name" value="injected_offline_m2repository" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/m2repository/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="BintrayJCenter" />
+      <option name="name" value="BintrayJCenter" />
+      <option name="url" value="https://jcenter.bintray.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Google" />
+      <option name="name" value="Google" />
+      <option name="url" value="https://dl.google.com/dl/android/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.1.1" />
+      <option name="name" value="injected_offline_gmaven_repo-4.1.1" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.1.1/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.2-C16" />
+      <option name="name" value="injected_offline_gmaven_repo-4.2-C16" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.2-C16/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.3" />
+      <option name="name" value="injected_offline_gmaven_repo-4.3" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.3/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.2" />
+      <option name="name" value="injected_offline_gmaven_repo-4.2" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo_4.3-C3" />
+      <option name="name" value="injected_offline_gmaven_repo_4.3-C3" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo_4.3-C3/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.2-B2" />
+      <option name="name" value="injected_offline_gmaven_repo-4.2-B2" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.2-B2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.3-C2" />
+      <option name="name" value="injected_offline_gmaven_repo-4.3-C2" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.3-C2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.2-B4" />
+      <option name="name" value="injected_offline_gmaven_repo-4.2-B4" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.2-B4/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-7.0.0-dev" />
+      <option name="name" value="injected_offline_gmaven_repo-7.0.0-dev" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-7.0.0-dev/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.1.2" />
+      <option name="name" value="injected_offline_gmaven_repo-4.1.2" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.1.2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.3-C4" />
+      <option name="name" value="injected_offline_gmaven_repo-4.3-C4" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.3-C4/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo 4.2B3" />
+      <option name="name" value="injected_offline_gmaven_repo 4.2B3" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo%204.2B3/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.3-C6" />
+      <option name="name" value="injected_offline_gmaven_repo-4.3-C6" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.3-C6/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.3-C5" />
+      <option name="name" value="injected_offline_gmaven_repo-4.3-C5" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.3-C5/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.3c10" />
+      <option name="name" value="injected_offline_gmaven_repo-4.3c10" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.3c10/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-C12" />
+      <option name="name" value="injected_offline_gmaven_repo-C12" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-C12/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.3-C11" />
+      <option name="name" value="injected_offline_gmaven_repo-4.3-C11" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.3-C11/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-C14" />
+      <option name="name" value="injected_offline_gmaven_repo-C14" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-C14/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo 4.2rc1" />
+      <option name="name" value="injected_offline_gmaven_repo 4.2rc1" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo%204.2rc1/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-4.2-S" />
+      <option name="name" value="injected_offline_gmaven_repo-4.2-S" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo-4.2-S/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo_4.3_C13" />
+      <option name="name" value="injected_offline_gmaven_repo_4.3_C13" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo_4.3_C13/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo_4.3-stable" />
+      <option name="name" value="injected_offline_gmaven_repo_4.3-stable" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo_4.3-stable/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo_4.4_C4" />
+      <option name="name" value="injected_offline_gmaven_repo_4.4_C4" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo_4.4_C4/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo_C7" />
+      <option name="name" value="injected_offline_gmaven_repo_C7" />
+      <option name="url" value="file:$USER_HOME$/offline_gradle/gmaven_repo_C7/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo" />
+      <option name="name" value="injected_offline_gmaven_repo" />
+      <option name="url" value="file:/$USER_HOME$/.android/manual-offline-m2/gmaven_repo/" />
+    </remote-repository>
+  </component>
+</project>

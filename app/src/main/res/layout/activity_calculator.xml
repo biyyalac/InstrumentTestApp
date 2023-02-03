@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/operand_one_edit_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/type_operand_one_hint"
+        android:inputType="numberDecimal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/operand_two_edit_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/type_operant_two_hint"
+        android:inputType="numberDecimal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/operand_one_edit_text" />
+
+
+    <Button
+        android:id="@+id/operation_add_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onAdd"
+        android:text="@string/add_operation_text"
+        app:layout_constraintBaseline_toBaselineOf="@+id/operation_sub_btn"
+        app:layout_constraintStart_toStartOf="@+id/operand_two_edit_text" />
+
+    <Button
+        android:id="@+id/operation_sub_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onSub"
+        android:text="@string/sub_operation_text"
+        app:layout_constraintStart_toEndOf="@+id/operation_add_btn"
+        app:layout_constraintTop_toBottomOf="@+id/operand_two_edit_text" />
+
+    <Button
+        android:id="@+id/operation_div_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onDiv"
+        android:text="@string/div_operation_text"
+        app:layout_constraintBaseline_toBaselineOf="@+id/operation_mul_btn"
+        app:layout_constraintStart_toStartOf="@+id/operation_add_btn" />
+
+    <Button
+        android:id="@+id/operation_mul_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onMul"
+        android:text="@string/mul_operation_text"
+        app:layout_constraintStart_toEndOf="@+id/operation_add_btn"
+        app:layout_constraintTop_toBottomOf="@+id/operation_add_btn" />
+
+
+    <TextView
+        android:id="@+id/operation_result_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/operation_div_btn" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
